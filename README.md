@@ -1,2 +1,71 @@
 # dsa
+
 DSA is focused on Data Structure &amp; Algorithms using Python and Javascript
+
+```
+|-- DSA-Implementations
+    |-- javascript
+        |-- data-structures
+            |-- arrays
+                |-- array.js
+            |-- linked-list
+                |-- linked-list.js
+            |-- stack
+                |-- stack.js
+            |-- queue
+                |-- queue.js
+            |-- binary-tree
+                |-- binary-tree.js
+            |-- heap
+                |-- heap.js
+            |-- hash-table
+                |-- hash-table.js
+        |-- algorithms
+            |-- sorting
+                |-- bubble-sort.js
+                |-- quick-sort.js
+            |-- searching
+                |-- binary-search.js
+            |-- dynamic-programming
+                |-- knapsack.js
+            |-- graph
+                |-- dijkstra.js
+            |-- backtracking
+                |-- n-queens.js
+        |-- tests
+            |-- test-array.js
+            |-- test-linked-list.js
+            |-- test-bubble-sort.js
+    |-- python
+        |-- data-structures
+            |-- arrays
+                |-- array.py
+            |-- linked-list
+                |-- linked-list.py
+            |-- stack
+                |-- stack.py
+            |-- queue
+                |-- queue.py
+            |-- binary-tree
+                |-- binary-tree.py
+            |-- heap
+                |-- heap.py
+            |-- hash-table
+                |-- hash-table.py
+        |-- algorithms
+            |-- sorting
+                |-- bubble-sort.py
+                |-- quick-sort.py
+            |-- searching
+                |-- binary-search.py
+            |-- dynamic-programming
+                |-- knapsack.py
+            |-- graph
+                |-- dijkstra.py
+            |-- backtracking
+                |-- n-queens.py
+        |-- tests
+            |-- test_array.py
+            |-- test_linked_list.py
+            |-- test_bubble_sort.py
+```
